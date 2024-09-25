@@ -1,23 +1,16 @@
-# Java Calculator
+# Calculator Application
 
-This is a simple calculator program built using Java Swing for the GUI. It supports basic operations such as addition, subtraction, multiplication, and division.
+This is a simple calculator application built using Java and Swing for the GUI. It supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ## Features
-- Add numbers
-- Subtract numbers
-- Multiply numbers
-- Divide numbers
+
+- Basic arithmetic operations: `+`, `-`, `*`, `/`
+- Graphical User Interface (GUI) using Swing
+- Easy-to-use interface with buttons for numbers and operations
+- Clear and equals button for processing and resetting
 
 ## How to Run
-1. Clone or download this repository.
-2. Compile the `Calculator.java` file using:
-   ```bash
-   javac Calculator.java
-   ```
-3. Run the program using:
-   ```bash
-   java Calculator
-   ```
 
-## License
-This project is open-source under the MIT License.
+1. Clone the repository to your local machine.
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
