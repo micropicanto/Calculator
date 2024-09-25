@@ -1,13 +1,23 @@
-# Traffic Light Simulator
+# Java Calculator
 
-A simple Java Swing GUI application to simulate traffic lights.
+This is a simple calculator program built using Java Swing for the GUI. It supports basic operations such as addition, subtraction, multiplication, and division.
 
-## Features:
-- Simulates red, yellow, and green traffic lights.
-- Radio buttons to control the lights.
-- Uses Java Swing for the GUI.
+## Features
+- Add numbers
+- Subtract numbers
+- Multiply numbers
+- Divide numbers
 
-## How to Run:
-1. **Compile** the `TrafficLightSimulator.java` file using the following command:
+## How to Run
+1. Clone or download this repository.
+2. Compile the `Calculator.java` file using:
    ```bash
-   javac TrafficLightSimulator.java
+   javac Calculator.java
+   ```
+3. Run the program using:
+   ```bash
+   java Calculator
+   ```
+
+## License
+This project is open-source under the MIT License.
